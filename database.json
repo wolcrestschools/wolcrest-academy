@@ -1,0 +1,82 @@
+{
+  "courseMaterials": [],
+  "studentProfiles": [
+    {
+      "id": "WOL-SCI-SSS3-7368-AI",
+      "name": "salami lawal",
+      "class": "SSS 3",
+      "department": "Sciences (STEM)",
+      "email": "salamilawal@wolcrestschools.edu"
+    }
+  ],
+  "results": [
+    {
+      "id": "res-demo-lawal",
+      "studentName": "salami lawal",
+      "examCode": "WOL-4890-EM2P",
+      "examType": "WAEC (Senior Secondary Sim)",
+      "subjects": [
+        { "subject": "Mathematics", "score": 92 },
+        { "subject": "Physics", "score": 88 },
+        { "subject": "Chemistry", "score": 85 },
+        { "subject": "English Language", "score": 79 },
+        { "subject": "CCA", "score": 90 },
+        { "subject": "Nigerian History", "score": 85 }
+      ],
+      "remark": "Outstanding performance! Exhibits exceptional analytical intelligence and brilliant academic dedication."
+    }
+  ],
+  "applications": [],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=800&auto=format&fit=crop",
+      "caption": "Wolcrest College Main Academic Administration Complex & Entrance Gates.",
+      "category": "Campus"
+    },
+    {
+      "id": "gal-2",
+      "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+      "caption": "State-of-the-Art Chemistry and Advanced Physics Research Laboratories.",
+      "category": "Labs"
+    },
+    {
+      "id": "gal-3",
+      "imageUrl": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?q=80&w=800&auto=format&fit=crop",
+      "caption": "Wolcrest Honors Library during independent study hours block.",
+      "category": "Library"
+    },
+    {
+      "id": "gal-4",
+      "imageUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=800&auto=format&fit=crop",
+      "caption": "Collaborative interactive learning in the computer science workshop.",
+      "category": "Academics"
+    }
+  ],
+  "logs": [
+    {
+      "id": "log-quiz-1780482217831",
+      "timestamp": "2026-06-03T10:23:37.831Z",
+      "studentName": "Guest Scholar",
+      "subject": "Exam: WAEC",
+      "queryText": "Generated 10 questions for English exam simulation.",
+      "responsePreview": "Completed dynamic generation."
+    },
+    {
+      "id": "log-quiz-1780481640099",
+      "timestamp": "2026-06-03T10:14:00.099Z",
+      "studentName": "Guest Scholar",
+      "subject": "Exam: WAEC",
+      "queryText": "Generated 10 questions for English exam simulation.",
+      "responsePreview": "Completed dynamic generation."
+    },
+    {
+      "id": "log-1",
+      "timestamp": "2026-06-01T17:00:00.000Z",
+      "studentName": "System Administrator",
+      "subject": "Diagnostics",
+      "queryText": "Crest AI virtual registrar desk initialized securely.",
+      "responsePreview": "No mock data. Database stands ready for registration."
+    }
+  ]
+}

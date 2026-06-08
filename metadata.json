@@ -1,0 +1,6 @@
+{
+  "name": "Wolcrest College",
+  "description": "An advanced portal for Wolcrest College featuring Crest AI Tutor, Nigerian Curricula Explorer, and exam-style quiz preparation for WAEC, JAMB, Common Entrance and BECE (Junior WAEC) with dynamic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
